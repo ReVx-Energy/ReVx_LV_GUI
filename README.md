@@ -12,7 +12,7 @@ How to Install:
 
 How to Use:
 
-1. Check Port in device port
+1. Check Port in device manager
 2. Select Corresponding port in bottom left section
 3. Click Start scan and see live parameter
 4. To modify Configuration:
